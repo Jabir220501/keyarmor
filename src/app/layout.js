@@ -1,4 +1,4 @@
-import 'bootstrap/dist/css/bootstrap.css';
+// import 'bootstrap/dist/css/bootstrap.css';
 import "./styles/plugins/global/plugins.bundle.css";
 import "./styles/style.bundle.css";
 import { Inter } from "next/font/google";
